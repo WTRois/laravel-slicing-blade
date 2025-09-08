@@ -2,6 +2,7 @@
 <html>
 
 @include('layouts.head')
+@include('layouts.css')
 @stack('css')
 
 <body class="m-0 font-sans text-base antialiased font-normal leading-default bg-gray-50 text-slate-500">
