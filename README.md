@@ -1,4 +1,4 @@
-# Laravel Project Setup
+# Laravel 12 Project Setup
 
 Panduan instalasi dan konfigurasi untuk project Laravel ini.
 
