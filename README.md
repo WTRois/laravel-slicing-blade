@@ -92,8 +92,6 @@ php artisan migrate:fresh
 ```bash
 # Start development server
 composer run dev
-# atau
-npm run dev
 ```
 
 ## Catatan Penting
